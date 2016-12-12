@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Slidebottemtotoplayout/Slidebottemtotoplayout.iml" filepath="$PROJECT_DIR$/Slidebottemtotoplayout/Slidebottemtotoplayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFeature.iml" filepath="$PROJECT_DIR$/TestFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_MPAndroidChart/Test_MPAndroidChart.iml" filepath="$PROJECT_DIR$/Test_MPAndroidChart/Test_MPAndroidChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_float_dialog/test_float_dialog.iml" filepath="$PROJECT_DIR$/test_float_dialog/test_float_dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_scroller/test_scroller.iml" filepath="$PROJECT_DIR$/test_scroller/test_scroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_viewdragrhelper/test_viewdragrhelper.iml" filepath="$PROJECT_DIR$/test_viewdragrhelper/test_viewdragrhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_volley/test_volley.iml" filepath="$PROJECT_DIR$/test_volley/test_volley.iml" />
+    </modules>
+  </component>
+</project>

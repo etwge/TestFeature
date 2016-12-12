@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\dev_pragram file\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Slidebottemtotoplayout" />
+            <option value="$PROJECT_DIR$/Test_MPAndroidChart" />
+            <option value="$PROJECT_DIR$/test_float_dialog" />
+            <option value="$PROJECT_DIR$/test_scroller" />
+            <option value="$PROJECT_DIR$/test_viewdragrhelper" />
+            <option value="$PROJECT_DIR$/test_volley" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

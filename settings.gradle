@@ -1,0 +1,1 @@
+include ':Test_MPAndroidChart', ':Slidebottemtotoplayout', ':test_volley', ':test_float_dialog', ':test_viewdragrhelper', ':test_scroller'
